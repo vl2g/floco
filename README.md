@@ -28,7 +28,7 @@ $ pip install -r requirements.txt
 ## Training
 
 ### Preparing dataset
-- Download the dataset [here](https://drive.google.com/drive/folders/1d22Fr6ZzdFXCfsQgaNg8mcDUc1AwzrWQ) and unzip it.
+- Download the dataset [here](https://drive.google.com/file/d/1xzf-xe2G35Et6yVDjSSkVIi-mNvv1Qwt/view?usp=drive_link) and unzip it. 
 - The dataset directory should have the following structure:
 ```
 [FloCo]
