@@ -1,8 +1,7 @@
 # FloCo
 **Official implementation of the Towards Making Flowchart Images Machine Interpretable paper (ICDAR 2023)**
 
-[Paper]() | [Project Page]() | [Poster]() | [Short Talk]() | [Slides]()
-
+[Paper](https://vl2g.github.io/projects/floco/docs/FLOCO-ICDAR2023.pdf) | [Project Page](https://vl2g.github.io/projects/floco/) 
 ## Requirements
 * Use **python >= 3.10.8**. Conda recommended : [https://docs.anaconda.com/anaconda/install/linux/](https://docs.anaconda.com/anaconda/install/linux/)
 
